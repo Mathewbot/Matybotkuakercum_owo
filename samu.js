@@ -1,7 +1,4 @@
-//============ NyanBot ============\\
-// + Favor de mantener este codigo
-//   tal y como esta.
-// + Si modificaras, manten los
+//============ Matybotkuaker =======\\
 //   creditos:
 //   _MankBarBar & Samu & LolHuman_
 //============ Samu330 ============\\
